@@ -12,6 +12,7 @@ import com.google.gson.*;
 import java.util.*;
 
 // response.rows[0].elements[0].distance.text
+// uberRider is a sub class that that inherit from an abstract class called Ride
 public class UberRide extends Ride {
 
     //instance variables
@@ -49,6 +50,8 @@ public class UberRide extends Ride {
              */
 
         //call the function that return random driver
+        
+        //
 
         Database DB = new Database();
         DB.getDriversArray();
