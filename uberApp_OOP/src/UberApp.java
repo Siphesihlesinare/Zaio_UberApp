@@ -43,8 +43,7 @@ public class UberApp {
         
         
 
-        // Person akhil = new Person("Akhil", "Boddu", "07838282", 123.12);
-        // System.out.println(akhil);
+        
 
         
 
